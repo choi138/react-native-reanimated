@@ -41,7 +41,7 @@ const char ShareableUnpackerCode[] =
           args: args
         };
         shareableUnpackerNativeTs1.__workletHash = 10367856098025;
-        shareableUnpackerNativeTs1.__pluginVersion = "0.7.0-main";
+        shareableUnpackerNativeTs1.__pluginVersion = "0.8.0-main";
         shareableUnpackerNativeTs1.__initData = _worklet_10367856098025_init_data;
         shareableUnpackerNativeTs1.__stackDetails = _e;
         return shareableUnpackerNativeTs1;
@@ -68,7 +68,7 @@ const char ShareableUnpackerCode[] =
           args: args
         };
         shareableUnpackerNativeTs2.__workletHash = 16822325880736;
-        shareableUnpackerNativeTs2.__pluginVersion = "0.7.0-main";
+        shareableUnpackerNativeTs2.__pluginVersion = "0.8.0-main";
         shareableUnpackerNativeTs2.__initData = _worklet_16822325880736_init_data;
         shareableUnpackerNativeTs2.__stackDetails = _e;
         return shareableUnpackerNativeTs2;
@@ -103,7 +103,7 @@ const char ShareableUnpackerCode[] =
           shareableRef: shareableRef
         };
         shareableUnpackerNativeTs3.__workletHash = 13730600479565;
-        shareableUnpackerNativeTs3.__pluginVersion = "0.7.0-main";
+        shareableUnpackerNativeTs3.__pluginVersion = "0.8.0-main";
         shareableUnpackerNativeTs3.__initData = _worklet_13730600479565_init_data;
         shareableUnpackerNativeTs3.__stackDetails = _e;
         return shareableUnpackerNativeTs3;
@@ -122,7 +122,7 @@ const char ShareableUnpackerCode[] =
           shareableRef: shareableRef
         };
         shareableUnpackerNativeTs4.__workletHash = 9086612025725;
-        shareableUnpackerNativeTs4.__pluginVersion = "0.7.0-main";
+        shareableUnpackerNativeTs4.__pluginVersion = "0.8.0-main";
         shareableUnpackerNativeTs4.__initData = _worklet_9086612025725_init_data;
         shareableUnpackerNativeTs4.__stackDetails = _e;
         return shareableUnpackerNativeTs4;
@@ -143,7 +143,7 @@ const char ShareableUnpackerCode[] =
           shareableRef: shareableRef
         };
         shareableUnpackerNativeTs5.__workletHash = 13165553193070;
-        shareableUnpackerNativeTs5.__pluginVersion = "0.7.0-main";
+        shareableUnpackerNativeTs5.__pluginVersion = "0.8.0-main";
         shareableUnpackerNativeTs5.__initData = _worklet_13165553193070_init_data;
         shareableUnpackerNativeTs5.__stackDetails = _e;
         return shareableUnpackerNativeTs5;
